@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-06-20T06:33:11.126Z",
+      "notes": "Eiffel Tower",
+      "position": {
+        "lat": "48.86110101269274",
+        "lng": "2.3661804199218754"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-07-16T07:40:09.711Z",
+      "notes": "My home town",
+      "position": {
+        "lat": "19.062117883514652",
+        "lng": "72.87231445312501"
+      },
+      "id": 98443202
     }
   ]
 }
